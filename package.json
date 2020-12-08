@@ -4,7 +4,8 @@
   "description": "real-time-chat",
   "main": "server.js",
   "scripts": {
-    "dev": "node server"
+    "start": "node server",
+    "dev": "nodemon server"
   },
   "author": "greg",
   "license": "ISC",
@@ -12,5 +13,5 @@
     "express": "^4.17.1",
     "moment": "^2.29.1",
     "socket.io": "^3.0.4"
- }
+  }
 }
