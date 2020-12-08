@@ -2,9 +2,11 @@
 Live chat React app using Socket.io.
 
 Visit Here: https://chat-live-react.herokuapp.com/
+<br>
+<br>
 
 
-<ul>To deploy locally:</ul>
+To deploy locally:<br>
 npm install<br>
 npm install -g nodemon<br>
 npm run dev<br>
