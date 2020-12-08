@@ -4,7 +4,7 @@
   "description": "real-time-chat",
   "main": "server.js",
   "scripts": {
-    "start": "node server"
+    "dev": "node server"
   },
   "author": "greg",
   "license": "ISC",
