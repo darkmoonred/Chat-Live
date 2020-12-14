@@ -1,5 +1,5 @@
 # Chat-Live
-Real-time live chat React app using web sockets (Socket.io)
+Real-time live chat React app using web sockets (Socket.io).
 
 Visit Here: https://chat-live-react.herokuapp.com/
 <br>
